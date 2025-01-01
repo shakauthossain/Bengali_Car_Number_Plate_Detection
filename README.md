@@ -38,7 +38,7 @@ A comprehensive **Computer Vision** project to detect Bangla number plates from 
 
 ### Step 1: Clone the Repository  
 ```bash  
-git clone https://github.com/shakauthossain/Begali_Car_Number_Plate_Detection.git  
+git clone https://github.com/shakauthossain/Bengali_Car_Number_Plate_Detection.git  
 cd bangla-license-plate-detection  
 ```  
 
